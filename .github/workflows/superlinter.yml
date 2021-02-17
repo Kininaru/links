@@ -4,7 +4,7 @@ name: Super-Linter
 on: 
   pull_request:
     branches:
-      - master
+      - push
 
 jobs:
   # Set the job key. The key is displayed as the job name
